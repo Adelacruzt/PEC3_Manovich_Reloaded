@@ -57,7 +57,7 @@ Además, otra de las características destacables de este software, es la posibi
 
 La utilización de este software nos presenta un caso claro de lo que es la hibridación de contenidos, su funcionalidad principal es la de interconectar los distintos medios y transformarlos de forma que, en conjunto, logren expandir su funcionalidad y cumplan objetivos que logren una narrativa mas elaborada.  
 
-## Biliografía/Webgrafía
+## Bibliografía/Webgrafía
 
 1. Manovich, L. (2013). El software toma el mando. Editorial UOC.
 2. Colaboradores de Wikipedia. (n.d.). Adobe Premiere Pro. Wikipedia, la enciclopedia libre. Consultado en Diciembre, 2021, de https://es.wikipedia.org/wiki/Adobe_Premiere_Pro
