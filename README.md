@@ -10,9 +10,9 @@
 
 ## Planteamiento
 
-> “Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” (Manovich, 2013). 
-
 En su libro, “El software toma el mando”, Manovich nos ayuda a comprender las diferencias intrínsecas entre los conceptos de hibridación y los nuevos medios. La hibridación no es sinónimo sino que nace de la unión de estos. En el proceso de hibridación las propiedades de los medios que forman parte del proceso se interconectan para crear nuevos campos de usabilidad que antes no eran posibles. 
+
+> “Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” (Manovich, 2013). 
 
 Lev Manovich indica que en la hibridación es el proceso de evolución y combinación de medios ya existentes que dan lugar a aplicaciones hibridas, Estos medios podrían ser: texto, fotografías, animaciones, video etc. 
 
@@ -44,7 +44,7 @@ Para concluir con el análisis de este caso, se puede observar claramente que no
 ![3755670](https://user-images.githubusercontent.com/96002365/145725075-5dd5c3d3-48ef-42ae-9cfe-0d7093508ab6.jpg)
 
 
-> “A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos.”
+> “A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos” (Manovich, 2013).
 
 Adobe Premier Pro es un software de vanguardia que permite la edición de videos a nivel profesional. Dispone de una interfaz personalizable y organizada en espacios de trabajo que facilitan la edición de diferentes aspectos del producto multimedia en cuestión; Dentro de estos espacios de trabajo se pueden editar los siguientes aspectos: color, efectos, audio, ensamblaje. 
 
@@ -62,8 +62,7 @@ La utilización de este software nos presenta un caso claro de lo que es la hibr
 1. Manovich, L. (2013). El software toma el mando. Editorial UOC.
 2. Colaboradores de Wikipedia. (n.d.). Adobe Premiere Pro. Wikipedia, la enciclopedia libre. Consultado en Diciembre, 2021, de https://es.wikipedia.org/wiki/Adobe_Premiere_Pro
 3. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
-4. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
-5. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
+4. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
 
 
 
