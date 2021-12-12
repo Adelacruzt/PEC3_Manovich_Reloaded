@@ -43,10 +43,9 @@ Para concluir con el análisis de este caso, se puede observar claramente que no
 
 ![3755670](https://user-images.githubusercontent.com/96002365/145725075-5dd5c3d3-48ef-42ae-9cfe-0d7093508ab6.jpg)
 
+Adobe Premier Pro es un software de vanguardia que permite la edición de videos a nivel profesional. Dispone de una interfaz personalizable y organizada en espacios de trabajo que facilitan la edición de diferentes aspectos del producto multimedia en cuestión; Dentro de estos espacios de trabajo se pueden editar los siguientes aspectos: color, efectos, audio, ensamblaje. 
 
 > “A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos” (Manovich, 2013).
-
-Adobe Premier Pro es un software de vanguardia que permite la edición de videos a nivel profesional. Dispone de una interfaz personalizable y organizada en espacios de trabajo que facilitan la edición de diferentes aspectos del producto multimedia en cuestión; Dentro de estos espacios de trabajo se pueden editar los siguientes aspectos: color, efectos, audio, ensamblaje. 
 
 El uso de capas (mayormente utilizadas en Adobe Photoshop) también es una función que puede ser encontrada en este programa, las capas permiten mover y editar el contenido de forma más especifica sin afectar las otras capas del archivo seleccionado, esto tiene bastante funcionalidad a la hora de mantener el proyecto organizado, promueve la creatividad y evita lo que llamaríamos “edición destructiva”. 
 
