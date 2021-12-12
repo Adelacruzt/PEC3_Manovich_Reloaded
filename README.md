@@ -48,7 +48,7 @@ Para concluir con el análisis de este caso, se puede observar claramente que no
 
 Adobe Premier Pro es un software de vanguardia que permite la edición de videos a nivel profesional. Dispone de una interfaz personalizable y organizada en espacios de trabajo que facilitan la edición de diferentes aspectos del producto multimedia en cuestión; Dentro de estos espacios de trabajo se pueden editar los siguientes aspectos: color, efectos, audio, ensamblaje. 
 
-La utilización de capas (mayormente utilizadas en Adobe Photoshop) también es una función que puede ser encontrada en este programa, las capas permiten mover y editar el contenido de forma mas especifica sin afectar las otras capas del archivo seleccionado, esto tiene bastante funcionalidad a la hora de mantener el proyecto organizado, promueve la creatividad y evita lo que llamaríamos “edición destructiva”. 
+El uso de capas (mayormente utilizadas en Adobe Photoshop) también es una función que puede ser encontrada en este programa, las capas permiten mover y editar el contenido de forma más especifica sin afectar las otras capas del archivo seleccionado, esto tiene bastante funcionalidad a la hora de mantener el proyecto organizado, promueve la creatividad y evita lo que llamaríamos “edición destructiva”. 
 
 Además, otra de las características destacables de este software, es la posibilidad de instalar plugins que permiten ampliar la cantidad de efectos predeterminados del programa. Para la edición precisa de los archivos de imagen o los efectos, podemos especificar el rango de aplicación mediante la utilización del sistema de división por fotogramas. 
 
@@ -60,4 +60,5 @@ La utilización de este software nos presenta un caso claro de lo que es la hibr
 links imagenes:
 
 Imagen 1: <a href='https://www.freepik.com/vectors/people'>People vector created by pch.vector - www.freepik.com</a>
+Imagen 2: https://www.freepik.com/free-vector/puffer-fish-plastic-bag-underwater-sea-ocean-ocean-pollution-by-trash-global-littering_12874588.htm#page=1&query=puffer%20fish%20plastic%20bag&position=0&from_view=search
 
