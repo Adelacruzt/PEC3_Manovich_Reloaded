@@ -22,21 +22,22 @@ A continuación, procederemos al análisis de dos ejemplos de hibridación, esto
 
 ![9Z_2101 w026 n002 110B p1 110](https://user-images.githubusercontent.com/96002365/145724365-c93bd257-2ef4-4b8a-a108-450e397ee29d.jpg)
 
+> El documental web, también llamado documental interactivo o documental multimedia es un tipo de relato audiovisual no lineal, en el cual el contenido está fragmentado por la interacción de un usuario navegar en una red de textos escritos, vídeos, imágenes y grabaciones de audio. Las capacidades multimedia de Internet proporcionan a los documentalistas un medio único para la creación de trabajos con narrativas no lineales que combinan fotografía, texto, audio, vídeo, animación e infografía.(Wikipedia, 2021).
+
 Troubled waters es un documental web que ha sido puesto en marcha con la intención de crear conciencia acerca del deterioro de los océanos debido a la mala administración de los residuos producidos por los humanos. Esta experiencia interactiva muestra a los participantes las consecuencias de las conductas habituales presentes en nuestra sociedad contemporánea, haciéndolos cuestionar sus hábitos y respuesta de cara a la problemática planteada.  Al acceder a su sitio web, nos encontramos con una imagen de fondo y una bolsa de plástico que en conjunto transmiten claramente el mensaje principal de este interactivo.
 
-> “Para abrir el debate de la hibridez de los medios, conviene aclarar que no me estoy refiriendo sencillamente a algo que ya tiene nombre: «multimedios informáticos» o, sencillamente, «multimedia». Este término se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios.” (Manovich, 2013).
 
 Durante dos años, Isabelle Sivestre (cineasta) viajó por toda Europa para recopilar información sobre las diferentes casuísticas que contribuyen a la problemática planteada. La primera parte del recorrido nos lleva a un video introductorio en donde se muestran imágenes del fondo marino y todos los residuos que pueden ser encontrados en este. El mensaje de la historia se ve reforzado por textos explicativos, éstos hacen referencia a la actividad humana y la visible inacción política que como consecuencia conlleva a la precariedad de las soluciones que hoy en día tenemos a disposición. 
 
 Al finalizar el video introductorio, nos encontramos con un mapa mental “Mindmap” cuyo contenido son videos que si son vistos en el orden propuesto, en las categorías nos encontramos con subtramas directamente relacionadas con la historia principal.
 
-La comunicación entre el interactivo y el usuario se identifica principalmente en el mindmap, en este se encuentra la estructura fundamental de la interacción, la arquitectura de la información que ha sido aplicada para la confección de este ha permitido mantener un orden optimo del contenido, por otra parte, su diseño despierta la curiosidad del usuario gracias a la facilidad de navegación.
+La comunicación entre el interactivo y el usuario se identifica principalmente en el Mindmap, en este se encuentra la estructura fundamental de la interacción, la arquitectura de la información que ha sido aplicada para la confección de este ha permitido mantener un orden optimo del contenido, por otra parte, su diseño despierta la curiosidad del usuario gracias a la facilidad de navegación.
 
 El usuario tiene tanto la posibilidad de seguir una navegación lineal como variar la navegación y salirse de la línea establecida para movilizarse en las diferentes secciones multimedia dentro de la web. Entre los medios que conviven en conjunto dentro de este documental web nos encontramos con: textos que facilitan al usuario la compresión de la información presentada (p.ej: textos explicativos), animaciones en algunos de los gráficos y el sonido acuático que se mantiene de fondo constantemente para potenciar la narrativa.
 
-> “A menudo estos medios (que solían ser texto, gráficos, fotografías, vídeo, escenas en 3D y sonido) se sitúan en lo que visualmente asemeja” un espacio bidimensional. (Manovich, 2013).
+> “Para abrir el debate de la hibridez de los medios, conviene aclarar que no me estoy refiriendo sencillamente a algo que ya tiene nombre: «multimedios informáticos» o, sencillamente, «multimedia». Este término se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios.” (Manovich, 2013).
 
-Para concluir con el análisis de este caso, y tomando en cuenta las aclaraciones de Lev manovich sobre la hibridez de los medios, se puede observar claramente que nos encontramos ante un caso de hibridación que cumple con las características descritas por Manovich en su libro. Los documentales Web combinan un gran numero de medios ya existentes (en este te caso: videos, imágenes, sonidos, redes sociales), que en conjunto, dan lugar a una aplicación hibrida, que presenta además, una nueva manera de interactuar con estos medios. 
+Para concluir con el análisis de este caso, y tomando en cuenta las aclaraciones de Lev Manovich sobre la hibridez de los medios, se puede observar claramente que nos encontramos ante un caso de hibridación que cumple con las características descritas por Manovich en su libro. Los documentales Web combinan un gran numero de medios ya existentes (en este te caso: videos, imágenes, sonidos, redes sociales), que en conjunto, dan lugar a una aplicación hibrida, que presenta además, una nueva manera de interactuar con estos medios. 
 
 
 ## Re-descubriendo la hibridación: Adobe Premier Pro
@@ -65,15 +66,16 @@ El uso de capas (mayormente utilizadas en Adobe Photoshop) también es una funci
 > “A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos” (Manovich, 2013).
 
 
-Basandonos en la cita anterior, podriamos decir que los archivos tratados dentro Adobe Premier Pro, mantienen su nucleo pero en el proceso de hibridación se da lugar a una colaboración de cada uno de estos para crear una nueva particula (en este caso el archivo final del proyecto) en donde abunda la harmonía en los elementos que le componen. La utilización de este software nos presenta un caso claro de lo que es la hibridación de contenidos, su funcionalidad principal es la de interconectar los distintos medios y transformarlos de forma que, en conjunto, logren expandir su funcionalidad y cumplan objetivos que logren una narrativa mas elaborada.  
+Basándonos en la cita anterior, podríamos decir que los archivos tratados dentro Adobe Premier Pro, mantienen su núcleo pero en el proceso de hibridación se da lugar a una colaboración de cada uno de estos para crear una nueva partícula (en este caso el archivo final del proyecto) en donde abunda la harmonía en los elementos que le componen. La utilización de este software nos presenta un caso claro de lo que es la hibridación de contenidos, su funcionalidad principal es la de interconectar los distintos medios y transformarlos de forma que, en conjunto, logren expandir su funcionalidad y cumplan objetivos que logren una narrativa mas elaborada.  
 
 ## Bibliografía/Webgrafía
 
 1. Manovich, L. (2013). El software toma el mando. Editorial UOC.
 2. Colaboradores de Wikipedia. (n.d.). Adobe Premiere Pro. Wikipedia, la enciclopedia libre. Consultado en Diciembre 11, 2021, de https://es.wikipedia.org/wiki/Adobe_Premiere_Pro
-3. Films, H. (n.d.). Troubled Waters: New webdoc released in 8 languages! | Klynt.net. Klynt. Consultado en Diciembre 12, 2021, de https://www.klynt.net/troubled-waters/
-4. Sylvestre, I. (2015, June 8). Troubled Waters. Troubled Wates. Consultado en Diciembre 12, 2021, de http://www.troubled-waters.net
-5. EcuRed. (n.d.). Adobe Premiere Pro - EcuRed. Consultado en Diciembre 11,, 2021, de https://www.ecured.cu/Adobe_Premiere_Pro
-6. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
-7. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
+3. Colaboradores de Wikipedia. (2021, July 17). Documental web. Wikipedia, la enciclopedia libre. Retrieved December 12, 2021, from https://es.wikipedia.org/wiki/Documental_web
+4. Films, H. (n.d.). Troubled Waters: New webdoc released in 8 languages! | Klynt.net. Klynt. Consultado en Diciembre 12, 2021, de https://www.klynt.net/troubled-waters/
+5. Sylvestre, I. (2015, June 8). Troubled Waters. Troubled Wates. Consultado en Diciembre 12, 2021, de http://www.troubled-waters.net
+6. EcuRed. (n.d.). Adobe Premiere Pro - EcuRed. Consultado en Diciembre 11,, 2021, de https://www.ecured.cu/Adobe_Premiere_Pro
+7. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
 8. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
+9. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
