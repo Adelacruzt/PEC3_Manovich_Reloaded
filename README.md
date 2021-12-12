@@ -1,6 +1,6 @@
 # PEC3_Manovich_Reloaded
 
-##Planteamiento
+## Planteamiento
 
 “Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” (Manovich, 2013). 
 
@@ -10,7 +10,7 @@ El autor indica que en la hibridación es el proceso de evolución y combinació
 
 A continuación, procederemos al análisis de dos ejemplos de hibridación, estos son: Troubled Waters (Documental Web) y Adobe Premier Pro (Aplicación para la creación de videos).
 
-##Re-descubriendo la hibridación: Troubled Waters
+## Re-descubriendo la hibridación: Troubled Waters
 
 
 Troubled waters es documental web que ha sido puesto en marcha con la intención de crear conciencia acerca del deterioro de los oceanos a causa de la mala administración de los residuos producidos por los humanos. Esta experiencia interactiva muestra a los participantes las consecuencias de las conductas habituales presentes en nuestra sociedad contemporánea, haciéndolos cuestionar sus hábitos y respuesta de cara a la problemática planteada.  Al acceder a su sitio web, nos encontramos con una imagen de fondo y una bolsa de plástico que en conjunto transmiten claramente el mensaje principal de este interactivo.
