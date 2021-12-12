@@ -14,7 +14,7 @@
 
 En su libro, “El software toma el mando”, Manovich nos ayuda a comprender las diferencias intrínsecas entre los conceptos de hibridación y los nuevos medios. La hibridación no es sinónimo sino que nace de la unión de estos. En el proceso de hibridación las propiedades de los medios que forman parte del proceso se interconectan para crear nuevos campos de usabilidad que antes no eran posibles. 
 
-El autor indica que en la hibridación es el proceso de evolución y combinación de medios ya existentes que dan lugar a aplicaciones hibridas, Estos medios podrían ser: texto, fotografías, animaciones, video etc. 
+Lev Manovich indica que en la hibridación es el proceso de evolución y combinación de medios ya existentes que dan lugar a aplicaciones hibridas, Estos medios podrían ser: texto, fotografías, animaciones, video etc. 
 
 A continuación, procederemos al análisis de dos ejemplos de hibridación, estos son: Troubled Waters (Documental Web) y Adobe Premier Pro (Aplicación para la creación de videos).
 
