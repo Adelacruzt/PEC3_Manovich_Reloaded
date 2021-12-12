@@ -32,9 +32,7 @@ Al finalizar el video introductorio, nos encontramos con un mapa mental “Mindm
 
 La comunicación entre el interactivo y el usuario se identifica principalmente en el mindmap, en este se encuentra la estructura fundamental de la interacción, la arquitectura de la información que ha sido aplicada para la confección de este ha permitido mantener un orden optimo del contenido, por otra parte, su diseño despierta la curiosidad del usuario gracias a la facilidad de navegación.
 
-Por otro lado, el usuario tiene tanto la posibilidad de seguir una navegación lineal como variar la navegación y salirse de la línea establecida para movilizarse en las diferentes secciones multimedia dentro de la web. 
-
-Entre los medios que conviven en conjunto dentro de este documental web nos encontramos con: textos que facilitan al usuario la compresión de la información presentada (p.ej: textos explicativos), animaciones en algunos de los gráficos y el sonido acuático que se mantiene de fondo constantemente para potenciar la narrativa.
+El usuario tiene tanto la posibilidad de seguir una navegación lineal como variar la navegación y salirse de la línea establecida para movilizarse en las diferentes secciones multimedia dentro de la web. Entre los medios que conviven en conjunto dentro de este documental web nos encontramos con: textos que facilitan al usuario la compresión de la información presentada (p.ej: textos explicativos), animaciones en algunos de los gráficos y el sonido acuático que se mantiene de fondo constantemente para potenciar la narrativa.
 
 > “A menudo estos medios (que solían ser texto, gráficos, fotografías, vídeo, escenas en 3D y sonido) se sitúan en lo que visualmente asemeja” un espacio bidimensional. (Manovich, 2013).
 
@@ -67,8 +65,6 @@ La utilización de este software nos presenta un caso claro de lo que es la hibr
 4. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
 5. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
 
-links imagenes:
 
-Imagen 1: <a href='https://www.freepik.com/vectors/people'>People vector created by pch.vector - www.freepik.com</a>
-Imagen 2: https://www.freepik.com/free-vector/puffer-fish-plastic-bag-underwater-sea-ocean-ocean-pollution-by-trash-global-littering_12874588.htm#page=1&query=puffer%20fish%20plastic%20bag&position=0&from_view=search
+
 
