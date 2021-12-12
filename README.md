@@ -43,6 +43,8 @@ Para concluir con el análisis de este caso, se puede observar claramente que no
 
 ## Re-descubriendo la hibridación: Adobe Premier Pro
 
+![3755670](https://user-images.githubusercontent.com/96002365/145725075-5dd5c3d3-48ef-42ae-9cfe-0d7093508ab6.jpg)
+
 
 > “A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos.”
 
@@ -61,6 +63,7 @@ La utilización de este software nos presenta un caso claro de lo que es la hibr
 
 1. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
 2. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
+3. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
 
 links imagenes:
 
