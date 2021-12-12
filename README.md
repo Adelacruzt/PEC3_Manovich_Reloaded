@@ -2,9 +2,9 @@
 
 ## Recurso de aprendizaje de Cultura Digital
 
-#### Autor: Adalberto De La Cruz Tiburcio
+##### Autor: Adalberto De La Cruz Tiburcio
 
-#### Fecha: 12/11/2021
+##### Fecha: 12/11/2021
 
 ## Planteamiento
 
