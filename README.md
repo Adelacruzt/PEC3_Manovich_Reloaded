@@ -2,7 +2,7 @@
 
 ## Planteamiento
 
-“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” (Manovich, 2013). 
+> “Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” (Manovich, 2013). 
 
 En su libro, “El software toma el mando”, Manovich nos ayuda a comprender las diferencias intrínsecas entre los conceptos de hibridación y los nuevos medios. La hibridación no es sinónimo sino que nace de la unión de estos. En el proceso de hibridación las propiedades de los medios que forman parte del proceso se interconectan para crear nuevos campos de usabilidad que antes no eran posibles. 
 
@@ -29,7 +29,7 @@ Entre los medios que conviven en conjunto dentro de este documental web nos enco
 
 “A menudo estos medios (que solían ser texto, gráficos, fotografías, vídeo, escenas en 3D y sonido) se sitúan en lo que visualmente asemeja” un espacio bidimensional. (Manovich, 2013).
 
-Para concluir con el análisis de este caso, se puede observar claramente que nos encontramos ante un caso de hibridación que cumple con las características descritas por Manovich. Los documentales Web combinan un gran numero de medios ya existentes (en este te caso: videos, imágenes, sonidos, redes sociales), que en conjunto, dan lugar a una aplicación hibrida. 
+Para concluir con el análisis de este caso, se puede observar claramente que nos encontramos ante un caso de hibridación que cumple con las características descritas por Manovich. Los documentales Web combinan un gran numero de medios ya existentes (en este te caso: videos, imágenes, sonidos, redes sociales), que en conjunto, dan lugar a una aplicación hibrida, que presenta ademas, una nueva manera de interactuar con estos medios. 
 
 
 ## Re-descubriendo la hibridación: Adobe Premier Pro
