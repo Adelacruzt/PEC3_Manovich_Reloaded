@@ -32,7 +32,7 @@ Entre los medios que conviven en conjunto dentro de este documental web nos enco
 Para concluir con el análisis de este caso, se puede observar claramente que nos encontramos ante un caso de hibridación que cumple con las características descritas por Manovich. Los documentales Web combinan un gran numero de medios ya existentes (en este te caso: videos, imágenes, sonidos, redes sociales), que en conjunto, dan lugar a una aplicación hibrida. 
 
 
-##Re-descubriendo la hibridación: Adobe Premier Pro
+## Re-descubriendo la hibridación: Adobe Premier Pro
 
 
 “A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos.”
