@@ -57,6 +57,11 @@ Además, otra de las características destacables de este software, es la posibi
 
 La utilización de este software nos presenta un caso claro de lo que es la hibridación de contenidos, su funcionalidad principal es la de interconectar los distintos medios y transformarlos de forma que, en conjunto, logren expandir su funcionalidad y cumplan objetivos que logren una narrativa mas elaborada.  
 
+## Biliografía/Webgrafía
+
+1. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
+2. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
+
 links imagenes:
 
 Imagen 1: <a href='https://www.freepik.com/vectors/people'>People vector created by pch.vector - www.freepik.com</a>
