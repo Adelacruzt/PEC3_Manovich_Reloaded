@@ -15,7 +15,7 @@ A continuación, procederemos al análisis de dos ejemplos de hibridación, esto
 
 Troubled waters es documental web que ha sido puesto en marcha con la intención de crear conciencia acerca del deterioro de los oceanos a causa de la mala administración de los residuos producidos por los humanos. Esta experiencia interactiva muestra a los participantes las consecuencias de las conductas habituales presentes en nuestra sociedad contemporánea, haciéndolos cuestionar sus hábitos y respuesta de cara a la problemática planteada.  Al acceder a su sitio web, nos encontramos con una imagen de fondo y una bolsa de plástico que en conjunto transmiten claramente el mensaje principal de este interactivo.
 
-“Para abrir el debate de la hibridez de los medios, conviene aclarar que no me estoy refiriendo sencillamente a algo que ya tiene nombre: «multimedios informáticos» o, sencillamente, «multimedia». Este término se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios.” (Manovich, 2013).
+> “Para abrir el debate de la hibridez de los medios, conviene aclarar que no me estoy refiriendo sencillamente a algo que ya tiene nombre: «multimedios informáticos» o, sencillamente, «multimedia». Este término se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios.” (Manovich, 2013).
 
 Durante dos años, Isabelle Sivestre (cineasta) viajó por toda Europa para recopilar información sobre las diferentes casuísticas que contribuyen a la problemática planteada. La primera parte del recorrido nos lleva a un video introductorio en donde se muestran imágenes del fondo marino y todos los residuos que pueden ser encontrados en este. El mensaje de la historia se ve reforzado por textos explicativos, éstos hacen referencia a la actividad humana y la visible inacción política que como consecuencia conlleva a la precariedad de las soluciones que hoy en día tenemos a disposición. 
 
@@ -27,7 +27,7 @@ Por otro lado, el usuario tiene tanto la posibilidad de seguir una navegación l
 
 Entre los medios que conviven en conjunto dentro de este documental web nos encontramos con: textos que facilitan al usuario la compresión de la información presentada (p.ej: textos explicativos), animaciones en algunos de los gráficos y el sonido acuático que se mantiene de fondo constantemente para potenciar la narrativa.
 
-“A menudo estos medios (que solían ser texto, gráficos, fotografías, vídeo, escenas en 3D y sonido) se sitúan en lo que visualmente asemeja” un espacio bidimensional. (Manovich, 2013).
+> “A menudo estos medios (que solían ser texto, gráficos, fotografías, vídeo, escenas en 3D y sonido) se sitúan en lo que visualmente asemeja” un espacio bidimensional. (Manovich, 2013).
 
 Para concluir con el análisis de este caso, se puede observar claramente que nos encontramos ante un caso de hibridación que cumple con las características descritas por Manovich. Los documentales Web combinan un gran numero de medios ya existentes (en este te caso: videos, imágenes, sonidos, redes sociales), que en conjunto, dan lugar a una aplicación hibrida, que presenta ademas, una nueva manera de interactuar con estos medios. 
 
@@ -35,7 +35,7 @@ Para concluir con el análisis de este caso, se puede observar claramente que no
 ## Re-descubriendo la hibridación: Adobe Premier Pro
 
 
-“A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos.”
+> “A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos.”
 
 Adobe Premier Pro es un software de vanguardia que permite la edición de videos a nivel profesional. Dispone de una interfaz personalizable y organizada en espacios de trabajo que facilitan la edición de diferentes aspectos del producto multimedia en cuestión; Dentro de estos espacios de trabajo se pueden editar los siguientes aspectos: color, efectos, audio, ensamblaje. 
 
@@ -43,7 +43,7 @@ La utilización de capas (mayormente utilizadas en Adobe Photoshop) también es 
 
 Además, otra de las características destacables de este software, es la posibilidad de instalar plugins que permiten ampliar la cantidad de efectos predeterminados del programa. Para la edición precisa de los archivos de imagen o los efectos, podemos especificar el rango de aplicación mediante la utilización del sistema de división por fotogramas. 
 
-“En cuanto a especificaciones técnicas, la máxima resolución que se admite es 16k X 10k 32 bits por canal, tanto en RGB como YUV. Mediante el motor Mercury Playback Engine, la GPU (siempre que sea compatible) puede ser utilizada para potenciar tanto las previsualizaciones como el renderizado.” (Wikipedia, 2021).
+> “En cuanto a especificaciones técnicas, la máxima resolución que se admite es 16k X 10k 32 bits por canal, tanto en RGB como YUV. Mediante el motor Mercury Playback Engine, la GPU (siempre que sea compatible) puede ser utilizada para potenciar tanto las previsualizaciones como el renderizado.” (Wikipedia, 2021).
 
 
 La utilización de este software nos presenta un caso claro de lo que es la hibridación de contenidos, su funcionalidad principal es la de interconectar los distintos medios y transformarlos de forma que, en conjunto, logren expandir su funcionalidad y cumplan objetivos que logren una narrativa mas elaborada.  
