@@ -6,7 +6,7 @@
 
 ##### Fecha: 12/11/2021
 
-![Imagen multimedia](https://www.freepik.com/vectors/people)
+![Imagen multimedia][https://www.freepik.com/vectors/people]
 
 ## Planteamiento
 
