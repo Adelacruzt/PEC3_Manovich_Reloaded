@@ -73,9 +73,10 @@ Basándonos en la cita anterior, podríamos decir que los archivos tratados dent
 1. Manovich, L. (2013). El software toma el mando. Editorial UOC.
 2. Colaboradores de Wikipedia. (n.d.). Adobe Premiere Pro. Wikipedia, la enciclopedia libre. Consultado en Diciembre 11, 2021, de https://es.wikipedia.org/wiki/Adobe_Premiere_Pro
 3. Colaboradores de Wikipedia. (2021, July 17). Documental web. Wikipedia, la enciclopedia libre. Retrieved December 12, 2021, from https://es.wikipedia.org/wiki/Documental_web
-4. Films, H. (n.d.). Troubled Waters: New webdoc released in 8 languages! | Klynt.net. Klynt. Consultado en Diciembre 12, 2021, de https://www.klynt.net/troubled-waters/
-5. Sylvestre, I. (2015, June 8). Troubled Waters. Troubled Wates. Consultado en Diciembre 12, 2021, de http://www.troubled-waters.net
-6. EcuRed. (n.d.). Adobe Premiere Pro - EcuRed. Consultado en Diciembre 11,, 2021, de https://www.ecured.cu/Adobe_Premiere_Pro
-7. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
-8. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
+4. De la Cruz Tiburcio, A.,(consultado en 2021). PEC 03 - Análisis de una narración interactiva - Narración interactiva.
+5. Films, H. (n.d.). Troubled Waters: New webdoc released in 8 languages! | Klynt.net. Klynt. Consultado en Diciembre 12, 2021, de https://www.klynt.net/troubled-waters/
+6. Sylvestre, I. (2015, June 8). Troubled Waters. Troubled Wates. Consultado en Diciembre 12, 2021, de http://www.troubled-waters.net
+7. EcuRed. (n.d.). Adobe Premiere Pro - EcuRed. Consultado en Diciembre 11,, 2021, de https://www.ecured.cu/Adobe_Premiere_Pro
+8. Pch.Vector. (n.d.). Female journalist with microphone interviewing man [Fotografía]. Freepik. https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=8&from_view=search
 9. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
+10. Freepik. (n.d.). Influencer recording a new video [Fotografía]. Freepik. https://www.freepik.com/free-vector/influencer-recording-new-video_7815291.htm#page=1&query=influencer%20recording&position=38&from_view=search
