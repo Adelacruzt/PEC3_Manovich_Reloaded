@@ -6,7 +6,7 @@
 
 ##### Fecha: 12/11/2021
 
-![Imagen multimedia](https://www.flickr.com/photos/16077535@N00/6991657132)
+![Imagen multimedia](https://user-images.githubusercontent.com/96002365/145723935-5fb59b86-c353-4698-80e8-5f75662430ed.jpg)
 
 ## Planteamiento
 
