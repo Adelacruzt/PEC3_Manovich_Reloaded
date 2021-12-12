@@ -16,7 +16,7 @@ En su libro, “El software toma el mando”, Manovich nos ayuda a comprender la
 
 Lev Manovich indica que en la hibridación es el proceso de evolución y combinación de medios ya existentes que dan lugar a aplicaciones hibridas, estos medios podrían ser: texto, fotografías, animaciones, video etc. 
 
-A continuación, procederemos al análisis de dos ejemplos de hibridación, estos son: Troubled Waters (documental web) y Adobe Premier Pro (aplicación para la creación de videos).
+A continuación, procederemos al análisis de dos ejemplos de hibridación, estos son: Troubled Waters (documental web) y Adobe Premier Pro (software para el tratamiento audiovisual).
 
 ## Re-descubriendo la hibridación: Troubled Waters
 
