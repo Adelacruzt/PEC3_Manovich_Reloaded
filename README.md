@@ -6,7 +6,7 @@
 
 ##### Fecha: 12/11/2021
 
-![Imagen multimedia](https://www.freepik.com/vectors/people])
+![Imagen multimedia](https://www.freepik.com/free-vector/female-journalist-with-microphone-interviewing-man_9649774.htm#page=1&query=multimedia&position=13&from_view=search)
 
 ## Planteamiento
 
