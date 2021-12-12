@@ -19,7 +19,7 @@ A continuación, procederemos al análisis de dos ejemplos de hibridación, esto
 ## Re-descubriendo la hibridación: Troubled Waters
 
 
-Troubled waters es **documental web** que ha sido puesto en marcha con la intención de crear conciencia acerca del deterioro de los oceanos a causa de la mala administración de los residuos producidos por los humanos. Esta experiencia interactiva muestra a los participantes las consecuencias de las conductas habituales presentes en nuestra sociedad contemporánea, haciéndolos cuestionar sus hábitos y respuesta de cara a la problemática planteada.  Al acceder a su sitio web, nos encontramos con una imagen de fondo y una bolsa de plástico que en conjunto transmiten claramente el mensaje principal de este interactivo.
+Troubled waters es un **documentalweb** que ha sido puesto en marcha con la intención de crear conciencia acerca del deterioro de los oceanos a causa de la mala administración de los residuos producidos por los humanos. Esta experiencia interactiva muestra a los participantes las consecuencias de las conductas habituales presentes en nuestra sociedad contemporánea, haciéndolos cuestionar sus hábitos y respuesta de cara a la problemática planteada.  Al acceder a su sitio web, nos encontramos con una imagen de fondo y una bolsa de plástico que en conjunto transmiten claramente el mensaje principal de este interactivo.
 
 > “Para abrir el debate de la hibridez de los medios, conviene aclarar que no me estoy refiriendo sencillamente a algo que ya tiene nombre: «multimedios informáticos» o, sencillamente, «multimedia». Este término se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios.” (Manovich, 2013).
 
